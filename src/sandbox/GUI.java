@@ -1,4 +1,4 @@
-package ics4u.versionControl;
+package sandbox;
 
 import java.awt.EventQueue;
 import javax.swing.JFrame;
