@@ -143,7 +143,7 @@ public class GUI {
 		buttonOne.setBounds(70, 323, 89, 23);
 		frame.getContentPane().add(buttonOne);
 		
-		JButton buttonTwelve = new JButton("Liam");
+		JButton buttonTwelve = new JButton("");
 		buttonTwelve.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
@@ -154,7 +154,7 @@ public class GUI {
 		buttonTwelve.setBounds(169, 323, 89, 23);
 		frame.getContentPane().add(buttonTwelve);
 		
-		JButton buttonEighteen = new JButton("Omar");
+		JButton buttonEighteen = new JButton("");
 		buttonEighteen.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
@@ -165,7 +165,7 @@ public class GUI {
 		buttonEighteen.setBounds(318, 97, 89, 23);
 		frame.getContentPane().add(buttonEighteen);
 		
-		JButton buttonNineteen = new JButton("Anushka");
+		JButton buttonNineteen = new JButton("");
 		buttonNineteen.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
@@ -176,7 +176,7 @@ public class GUI {
 		buttonNineteen.setBounds(417, 97, 89, 23);
 		frame.getContentPane().add(buttonNineteen);
 		
-		JButton buttonSeventeen = new JButton("Shabib");
+		JButton buttonSeventeen = new JButton("");
 		buttonSeventeen.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
@@ -198,7 +198,7 @@ public class GUI {
 		buttonTwenty.setBounds(417, 131, 89, 23);
 		frame.getContentPane().add(buttonTwenty);
 		
-		JButton buttonSixteen = new JButton("Fabian");
+		JButton buttonSixteen = new JButton("");
 		buttonSixteen.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
@@ -209,7 +209,7 @@ public class GUI {
 		buttonSixteen.setBounds(318, 192, 89, 23);
 		frame.getContentPane().add(buttonSixteen);
 		
-		JButton buttonTwentyOne = new JButton("Constatine");
+		JButton buttonTwentyOne = new JButton("");
 		buttonTwentyOne.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
@@ -220,7 +220,7 @@ public class GUI {
 		buttonTwentyOne.setBounds(417, 192, 89, 23);
 		frame.getContentPane().add(buttonTwentyOne);
 		
-		JButton buttonFifteen = new JButton("Alec");
+		JButton buttonFifteen = new JButton("");
 		buttonFifteen.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
@@ -317,7 +317,7 @@ public class GUI {
 		clearButton.setBounds(131, 451, 89, 23);
 		frame.getContentPane().add(clearButton);
 		
-		JButton buttonSeven = new JButton("Samantha");
+		JButton buttonSeven = new JButton("");
 		buttonSeven.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 
@@ -339,7 +339,7 @@ public class GUI {
 		buttonSix.setBounds(70, 97, 89, 23);
 		frame.getContentPane().add(buttonSix);
 		
-		JButton buttonFive = new JButton("Saharsh");
+		JButton buttonFive = new JButton("");
 		buttonFive.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 			}
