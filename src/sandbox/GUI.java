@@ -321,7 +321,7 @@ public class GUI {
 		buttonSeven.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 
-				//Methods.buttonSeven(textField);
+				Methods.buttonSeven(textField);
 			}
 		});
 		buttonSeven.setFont(new Font("Tahoma", Font.BOLD, 11));

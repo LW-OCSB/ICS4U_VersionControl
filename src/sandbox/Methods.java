@@ -64,7 +64,7 @@ public class Methods {
 	// RETURN TYPE - void
 	public static void buttonSeven(JTextField jtf)  {
 
-		
+		jtf.setText("Audfan for life!!");
 	}
 	
 	
