@@ -279,7 +279,7 @@ public class GUI {
 		buttonTwentyFour.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
-				//Methods.buttonTwentyFour(textField);
+				Methods.buttonTwentyFour(textField);
 			}
 		});
 		buttonTwentyFour.setFont(new Font("Tahoma", Font.BOLD, 11));
