@@ -46,7 +46,7 @@ public class Methods {
 	// RETURN TYPE - void
 	public static void buttonFive(JTextField jtf)  {
 
-		
+		jtf.setText("Just Dance!");
 	}
 	
 	
@@ -54,7 +54,7 @@ public class Methods {
 	// PARAMETERS - JTextField jtf
 	// RETURN TYPE - void
 	public static void buttonSix(JTextField jtf)  {
-
+		jtf.setText("Amazings");
 		
 	}
 	
@@ -64,7 +64,7 @@ public class Methods {
 	// RETURN TYPE - void
 	public static void buttonSeven(JTextField jtf)  {
 
-		
+		jtf.setText("Audfan for life!!");
 	}
 	
 	
@@ -72,6 +72,7 @@ public class Methods {
 	// PARAMETERS - JTextField jtf
 	// RETURN TYPE - void
 	public static void buttonEight(JTextField jtf)  {
+		jtf.setText("Alfan For Life");
 
 		
 	}
@@ -109,7 +110,7 @@ public class Methods {
 	// RETURN TYPE - void
 	public static void buttonTwelve(JTextField jtf)  {
 
-		
+		jtf.setText("...checking health status...unknown...");
 	}
 	
 	
