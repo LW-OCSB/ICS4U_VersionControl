@@ -1,6 +1,6 @@
 package sandbox;
 
-import javax.swing.JTextField;
+import javax.swing.JTextField; 
 
 public class Methods {
 
