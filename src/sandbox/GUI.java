@@ -59,7 +59,7 @@ public class GUI {
 		buttonEight.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
-				//Methods.buttonEight(textField);
+				Methods.buttonEight(textField);
 			}
 		});
 		buttonEight.setFont(new Font("Tahoma", Font.BOLD, 11));
@@ -70,7 +70,7 @@ public class GUI {
 		buttonNine.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
-				//Methods.buttonNine(textField);
+				Methods.buttonNine(textField);
 			}
 		});
 		buttonNine.setFont(new Font("Tahoma", Font.BOLD, 11));
@@ -103,7 +103,7 @@ public class GUI {
 		buttonTen.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
-				//Methods.buttonTen(textField);
+				Methods.buttonTen(textField);
 			}
 		});
 		buttonTen.setFont(new Font("Tahoma", Font.BOLD, 11));
@@ -147,7 +147,7 @@ public class GUI {
 		buttonTwelve.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
-				//Methods.buttonTwelve(textField);
+				Methods.buttonTwelve(textField);
 			}
 		});
 		buttonTwelve.setFont(new Font("Tahoma", Font.BOLD, 11));
@@ -213,7 +213,7 @@ public class GUI {
 		buttonTwentyOne.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
-				//Methods.buttonTwentyOne(textField);
+				Methods.buttonTwentyOne(textField);
 			}
 		});
 		buttonTwentyOne.setFont(new Font("Tahoma", Font.BOLD, 11));
@@ -235,7 +235,7 @@ public class GUI {
 		buttonTwentyTwo.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
-				//Methods.buttonTwentyTwo(textField);
+				Methods.buttonTwentyTwo(textField);
 			}
 		});
 		buttonTwentyTwo.setFont(new Font("Tahoma", Font.BOLD, 11));
@@ -268,7 +268,7 @@ public class GUI {
 		buttonThirteen.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
-				//Methods.buttonThirteen(textField);
+				Methods.buttonThirteen(textField);
 			}
 		});
 		buttonThirteen.setFont(new Font("Tahoma", Font.BOLD, 11));
@@ -310,7 +310,7 @@ public class GUI {
 		JButton clearButton = new JButton("Clear");
 		clearButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				textField.setText("");
+				textField.setText("");    
 			}
 		});
 		clearButton.setFont(new Font("Tahoma", Font.BOLD, 11));
@@ -321,7 +321,7 @@ public class GUI {
 		buttonSeven.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 
-				//Methods.buttonSeven(textField);
+				Methods.buttonSeven(textField);
 			}
 		});
 		buttonSeven.setFont(new Font("Tahoma", Font.BOLD, 11));
@@ -332,7 +332,7 @@ public class GUI {
 		buttonSix.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
-				//Methods.buttonSix(textField);
+				Methods.buttonSix(textField);
 			}
 		});
 		buttonSix.setFont(new Font("Tahoma", Font.BOLD, 11));
@@ -342,6 +342,8 @@ public class GUI {
 		JButton buttonFive = new JButton("Antonia");
 		buttonFive.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				
+				Methods.buttonFive(textField);
 			}
 		});
 		buttonFive.setFont(new Font("Tahoma", Font.BOLD, 11));
