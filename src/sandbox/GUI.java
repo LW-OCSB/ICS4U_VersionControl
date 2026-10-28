@@ -275,7 +275,7 @@ public class GUI {
 		buttonThirteen.setBounds(318, 323, 89, 23);
 		frame.getContentPane().add(buttonThirteen);
 		
-		JButton buttonTwentyFour = new JButton("");
+		JButton buttonTwentyFour = new JButton("David");
 		buttonTwentyFour.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
