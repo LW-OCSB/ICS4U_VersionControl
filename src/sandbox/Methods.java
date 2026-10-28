@@ -72,6 +72,7 @@ public class Methods {
 	// PARAMETERS - JTextField jtf
 	// RETURN TYPE - void
 	public static void buttonEight(JTextField jtf)  {
+		jtf.setText("Alfan For Life");
 
 		
 	}
