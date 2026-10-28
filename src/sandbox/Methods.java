@@ -54,7 +54,7 @@ public class Methods {
 	// PARAMETERS - JTextField jtf
 	// RETURN TYPE - void
 	public static void buttonSix(JTextField jtf)  {
-		jtf.setText("Amazings"); 
+		jtf.setText("Amazings");
 		
 	}
 	
