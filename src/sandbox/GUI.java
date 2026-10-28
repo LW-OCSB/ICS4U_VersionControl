@@ -307,7 +307,7 @@ public class GUI {
 		buttonTwentySeven.setBounds(368, 422, 89, 23);
 		frame.getContentPane().add(buttonTwentySeven);
 		
-		JButton clearButton = new JButton("Clear");
+		JButton clearButton = new JButton("Clear"); 
 		clearButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				textField.setText("");    
