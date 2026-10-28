@@ -310,7 +310,7 @@ public class GUI {
 		JButton clearButton = new JButton("Clear");
 		clearButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				textField.setText("");
+				textField.setText("");    
 			}
 		});
 		clearButton.setFont(new Font("Tahoma", Font.BOLD, 11));
