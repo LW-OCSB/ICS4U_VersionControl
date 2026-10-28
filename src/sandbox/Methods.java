@@ -109,7 +109,7 @@ public class Methods {
 	// RETURN TYPE - void
 	public static void buttonTwelve(JTextField jtf)  {
 
-		
+		jtf.setText("...checking health status...unknown...");
 	}
 	
 	
