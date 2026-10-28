@@ -119,6 +119,7 @@ public class Methods {
 	// RETURN TYPE - void
 	public static void buttonThirteen(JTextField jtf)  {
 
+		jtf.setText("David and Liam yaoi fanfic mmm");
 		
 	}
 	
