@@ -82,7 +82,7 @@ public class Methods {
 	// RETURN TYPE - void
 	public static void buttonNine(JTextField jtf)  {
 
-		
+		jtf.setText("When life gives you lemons, make lemonade");
 	}
 	
 	
