@@ -215,11 +215,10 @@ public class Methods {
 	// RETURN TYPE - void
 	public static void buttonTwentyFour(JTextField jtf)  {
 
-		
+		jtf.setText("David did his method :)");
 	}
 	
 	
-	// DESCRIPTION - Displays message onto JTextField.
 	// PARAMETERS - JTextField jtf
 	// RETURN TYPE - void
 	public static void buttonTwentyFive(JTextField jtf)  {
