@@ -54,7 +54,7 @@ public class Methods {
 	// PARAMETERS - JTextField jtf
 	// RETURN TYPE - void
 	public static void buttonSix(JTextField jtf)  {
-		jtf.setText("Amazings"); 
+		jtf.setText("Amazings");
 		
 	}
 	
@@ -119,6 +119,7 @@ public class Methods {
 	// RETURN TYPE - void
 	public static void buttonThirteen(JTextField jtf)  {
 
+		jtf.setText("David and Liam yaoi fanfic mmm");
 		
 	}
 	
@@ -214,11 +215,10 @@ public class Methods {
 	// RETURN TYPE - void
 	public static void buttonTwentyFour(JTextField jtf)  {
 
-		
+		jtf.setText("David did his method :)");
 	}
 	
 	
-	// DESCRIPTION - Displays message onto JTextField.
 	// PARAMETERS - JTextField jtf
 	// RETURN TYPE - void
 	public static void buttonTwentyFive(JTextField jtf)  {
